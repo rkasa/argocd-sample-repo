@@ -25,7 +25,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/rkasahara/citest:64dcd65dafbbb953549d2496d50c53cf98e8b2ab
+      - image: docker.io/rkasahara/citest:489b999e68a138e65d4c83cee10e0d577b6fd7de
         name: blue
         ports:
           - containerPort: 80
